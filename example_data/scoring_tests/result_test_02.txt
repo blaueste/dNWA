@@ -1,0 +1,9 @@
+>0,AA_01,>0,BB_02,-20,20,-1.0
+-,-,-,-,-,-,-,-,-,-,A.A.A.A,A.A.A.A,A.A.A.A,A.A.A.A,A.A.A.A,A.A.A.A,A.A.A.A,A.A.A.A,A.A.A.A,A.A.A.A
+B.B.B.B,B.B.B.B,B.B.B.B,B.B.B.B,B.B.B.B,B.B.B.B,B.B.B.B,B.B.B.B,B.B.B.B,B.B.B.B,-,-,-,-,-,-,-,-,-,-
+>0,AA_01,>0,AA_01,80,10,8.0
+A.A.A.A,A.A.A.A,A.A.A.A,A.A.A.A,A.A.A.A,A.A.A.A,A.A.A.A,A.A.A.A,A.A.A.A,A.A.A.A
+A.A.A.A,A.A.A.A,A.A.A.A,A.A.A.A,A.A.A.A,A.A.A.A,A.A.A.A,A.A.A.A,A.A.A.A,A.A.A.A
+>0,BB_02,>0,BB_02,80,10,8.0
+B.B.B.B,B.B.B.B,B.B.B.B,B.B.B.B,B.B.B.B,B.B.B.B,B.B.B.B,B.B.B.B,B.B.B.B,B.B.B.B
+B.B.B.B,B.B.B.B,B.B.B.B,B.B.B.B,B.B.B.B,B.B.B.B,B.B.B.B,B.B.B.B,B.B.B.B,B.B.B.B

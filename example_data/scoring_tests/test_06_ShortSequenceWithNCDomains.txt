@@ -1,0 +1,5 @@
+>ClusID 1; #Accessions 4; Structural_annotation NC_0-1 NC_1-1
+AA_01 (0,0,START) (10,15,A.A.A.A) (20,25,A.A.A.A) (35,35,END)
+AA_02 (0,0,START) (10,15,A.A.A.A) (20,30,A.A.A.A) (35,35,END)
+AA_03 (0,0,START) (15,20,A.A.A.A) (25,30,A.A.A.A) (35,35,END)
+AA_04 (0,0,START) (15,20,A.A.A.A) (25,35,A.A.A.A) (35,35,END)

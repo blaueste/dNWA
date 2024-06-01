@@ -1,0 +1,1 @@
+An error occurred in traceback(): Sequence without protein domain found. Please run the program again with reasonable input.

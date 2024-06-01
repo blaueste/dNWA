@@ -1,0 +1,3 @@
+>ClusID 0; #Accessions 2; Structural_annotation L
+AA_01 (0,0,START) (35,35,END)
+AA_02 (0,0,START) (35,35,END)
