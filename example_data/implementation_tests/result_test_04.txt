@@ -1,0 +1,2 @@
+CRITICAL:root:The file is empty.
+An error occured in convertInput(). The following description line is malformed:  >ClusID ; #Accessions ; Structural_annotation L

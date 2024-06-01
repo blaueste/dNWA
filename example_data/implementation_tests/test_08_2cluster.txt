@@ -1,0 +1,10 @@
+>ClusID 0; #Accessions 5; Structural_annotation L
+AA_01 (0,0,START) (0,10,A.A.A.A) (10,10,END)
+BB_02 (0,0,START) (1,20,B.B.B.B) (21,21,END)
+CC_03 (0,0,START) (1,30,C.C.C.C) (30,30,END)
+DD_04 (0,0,START) (1,5,D.D.D.D) (5,5,END)
+EE_05 (0,0,START) (1,2,E.E.E.E) (3,3,END)
+>ClusID 1; #Accessions 3; Structural_annotation L
+AA_01 (0,0,START) (0,10,A.A.A.A) (10,10,END)
+BB_02 (0,0,START) (1,20,B.B.B.B) (21,21,END)
+CC_03 (0,0,START) (1,30,C.C.C.C) (30,30,END)

@@ -1,0 +1,6 @@
+>ClusID 0; #Accessions 5; Structural_annotation L
+AA_01 (0,0,START) (9,154,A.A.A.A) (158,158,END)
+AA_02 (0,0,START) (15,168,A.A) (178,178,END)
+AA_03 (0,0,START) (12,158,A.A.A) (160,160,END)
+AA_04 (0,0,START) (15,175,A.A) (186,186,END)
+AA_05 (0,0,START) (26,170,A) (178,178,END)

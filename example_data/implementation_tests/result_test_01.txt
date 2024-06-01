@@ -1,0 +1,2 @@
+CRITICAL:root:The file is empty.
+An error occured in main(): The file is empty.
